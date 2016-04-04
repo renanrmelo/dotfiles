@@ -1,24 +1,29 @@
 {
+	"bold_folder_labels": true,
 	"color_scheme": "Packages/Material Theme/schemes/Material-Theme-Darker-OceanicNext.tmTheme",
+	"font_size": 10,
 	"http_proxy": "pacato.dbseller.com.br:3128",
 	"https_proxy": "pacato.dbseller.com.br:3128",
 	"ignored_packages":
 	[
 		"Vintage"
 	],
+	"indent_guide_options":
+	[
+		"draw_normal",
+		"draw_active"
+	],
+	"line_padding_bottom": 2,
+	"line_padding_top": 2,
 	"margin": 2,
+	"material_theme_accent_lime": true,
+	"material_theme_compact_sidebar": true,
+	"material_theme_contrast_mode": true,
+	"material_theme_small_tab": true,
+	"material_theme_tabs_autowidth": true,
+	"overlay_scroll_bars": "enabled",
 	"tab_size": 2,
 	"theme": "Material-Theme.sublime-theme",
 	"translate_tabs_to_spaces": true,
-	"word_wrap": false,
-	"material_theme_small_tab"                : true , // Set small tabs
-	"material_theme_compact_sidebar"          : true , // Set compact side bar
-	"material_theme_accent_lime"              : true , // set green lime accent color
-	"material_theme_tabs_autowidth"           : true , // Enable autowidth for tabs
-	"material_theme_contrast_mode"            : true , // Enable sidebar and panels contrast mode
-	"overlay_scroll_bars"          : "enabled",
-	"line_padding_top"             : 2,
-	"line_padding_bottom"          : 2,
-	"bold_folder_labels"           : true,
-	"indent_guide_options"         : [ "draw_normal", "draw_active" ],   // Highlight active indent
+	"word_wrap": false
 }
