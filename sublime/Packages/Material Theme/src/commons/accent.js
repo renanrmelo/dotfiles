@@ -185,7 +185,6 @@ NOTE: This rulers must only override the original definitions */
   {
     "class": "quick_panel_label",
     "settings": ["material_theme_accent_lime"],
-    "fg": [176, 190, 197, 255],
     "match_fg": [139, 195, 74],
     "selected_fg": [255, 255, 255, 255],
     "selected_match_fg": [139, 195, 74]
@@ -197,7 +196,6 @@ NOTE: This rulers must only override the original definitions */
     "class": "quick_panel_label",
     "settings": ["material_theme_accent_lime"],
     "parents": [{"class": "overlay_control"}],
-    "fg": [176, 190, 197, 255],
     "match_fg": [139, 195, 74],
     "selected_fg": [255, 255, 255, 255],
     "selected_match_fg": [139, 195, 74]
@@ -208,7 +206,6 @@ NOTE: This rulers must only override the original definitions */
   {
     "class": "quick_panel_path_label",
     "settings": ["material_theme_accent_lime"],
-    "fg": [97, 97, 97, 255],
     "match_fg": [139, 195, 74],
     "selected_fg": [255, 255, 255, 255],
     "selected_match_fg": [139, 195, 74]
@@ -498,7 +495,6 @@ NOTE: This rulers must only override the original definitions */
   {
     "class": "quick_panel_label",
     "settings": ["material_theme_accent_purple"],
-    "fg": [176, 190, 197, 255],
     "match_fg": [156, 39, 176],
     "selected_fg": [255, 255, 255, 255],
     "selected_match_fg": [156, 39, 176]
@@ -510,7 +506,6 @@ NOTE: This rulers must only override the original definitions */
     "class": "quick_panel_label",
     "settings": ["material_theme_accent_purple"],
     "parents": [{"class": "overlay_control"}],
-    "fg": [176, 190, 197, 255],
     "match_fg": [156, 39, 176],
     "selected_fg": [255, 255, 255, 255],
     "selected_match_fg": [156, 39, 176]
@@ -521,7 +516,6 @@ NOTE: This rulers must only override the original definitions */
   {
     "class": "quick_panel_path_label",
     "settings": ["material_theme_accent_purple"],
-    "fg": [97, 97, 97, 255],
     "match_fg": [156, 39, 176],
     "selected_fg": [255, 255, 255, 255],
     "selected_match_fg": [156, 39, 176]
@@ -810,8 +804,7 @@ NOTE: This rulers must only override the original definitions */
   {
     "class": "quick_panel_label",
     "settings": ["material_theme_accent_red"],
-    "fg": [176, 190, 197, 255],
-    "match_fg": [244, 67, 54],
+    "match_fg": [229, 115, 115],
     "selected_fg": [255, 255, 255, 255],
     "selected_match_fg": [229, 115, 115]
   },
@@ -822,7 +815,6 @@ NOTE: This rulers must only override the original definitions */
     "class": "quick_panel_label",
     "settings": ["material_theme_accent_red"],
     "parents": [{"class": "overlay_control"}],
-    "fg": [176, 190, 197, 255],
     "match_fg": [229, 115, 115],
     "selected_fg": [255, 255, 255, 255],
     "selected_match_fg": [229, 115, 115]
@@ -833,7 +825,6 @@ NOTE: This rulers must only override the original definitions */
   {
     "class": "quick_panel_path_label",
     "settings": ["material_theme_accent_red"],
-    "fg": [97, 97, 97, 255],
     "match_fg": [229, 115, 115],
     "selected_fg": [255, 255, 255, 255],
     "selected_match_fg": [229, 115, 115]
@@ -1123,10 +1114,9 @@ NOTE: This rulers must only override the original definitions */
   {
     "class": "quick_panel_label",
     "settings": ["material_theme_accent_orange"],
-    "fg": [176, 190, 197, 255],
     "match_fg": [255, 112, 67],
     "selected_fg": [255, 255, 255, 255],
-    "selected_match_fg": [229, 115, 115]
+    "selected_match_fg": [255, 112, 67]
   },
 
     // Panel labels
@@ -1135,10 +1125,9 @@ NOTE: This rulers must only override the original definitions */
     "class": "quick_panel_label",
     "settings": ["material_theme_accent_orange"],
     "parents": [{"class": "overlay_control"}],
-    "fg": [176, 190, 197, 255],
     "match_fg": [255, 112, 67],
     "selected_fg": [255, 255, 255, 255],
-    "selected_match_fg": [229, 115, 115]
+    "selected_match_fg": [255, 112, 67]
   },
 
     // Panels sublabels
@@ -1146,10 +1135,9 @@ NOTE: This rulers must only override the original definitions */
   {
     "class": "quick_panel_path_label",
     "settings": ["material_theme_accent_orange"],
-    "fg": [97, 97, 97, 255],
     "match_fg": [255, 112, 67],
     "selected_fg": [255, 255, 255, 255],
-    "selected_match_fg": [229, 115, 115]
+    "selected_match_fg": [255, 112, 67]
   },
 
     // Panels data / score
@@ -1436,7 +1424,6 @@ NOTE: This rulers must only override the original definitions */
   {
     "class": "quick_panel_label",
     "settings": ["material_theme_accent_yellow"],
-    "fg": [176, 190, 197, 255],
     "match_fg": [255, 162, 26],
     "selected_fg": [255, 255, 255, 255],
     "selected_match_fg": [255, 162, 26]
@@ -1448,7 +1435,6 @@ NOTE: This rulers must only override the original definitions */
     "class": "quick_panel_label",
     "settings": ["material_theme_accent_yellow"],
     "parents": [{"class": "overlay_control"}],
-    "fg": [176, 190, 197, 255],
     "match_fg": [255, 162, 26],
     "selected_fg": [255, 255, 255, 255],
     "selected_match_fg": [255, 162, 26]
@@ -1459,7 +1445,6 @@ NOTE: This rulers must only override the original definitions */
   {
     "class": "quick_panel_path_label",
     "settings": ["material_theme_accent_yellow"],
-    "fg": [97, 97, 97, 255],
     "match_fg": [255, 162, 26],
     "selected_fg": [255, 255, 255, 255],
     "selected_match_fg": [255, 162, 26]
@@ -1585,20 +1570,20 @@ NOTE: This rulers must only override the original definitions */
   {
     "class": "tool_tip_control",
     "settings": ["material_theme_accent_indigo"],
-    "layer0.tint": [92, 107, 192],
+    "layer0.tint": [121, 134, 203]
   },
 
   {
     "class": "progress_gauge_control",
     "settings": ["material_theme_accent_indigo"],
-    "layer0.tint": [92, 107, 192]
+    "layer0.tint": [121, 134, 203]
   },
 
   {
     "class": "auto_complete_label",
     "settings": ["material_theme_accent_indigo"],
-    "match_fg": [92, 107, 192],
-    "selected_match_fg": [92, 107, 192]
+    "match_fg": [121, 134, 203],
+    "selected_match_fg": [121, 134, 203]
   },
 
   {
@@ -1748,10 +1733,9 @@ NOTE: This rulers must only override the original definitions */
   {
     "class": "quick_panel_label",
     "settings": ["material_theme_accent_indigo"],
-    "fg": [176, 190, 197, 255],
     "match_fg": [121, 134, 203],
     "selected_fg": [255, 255, 255, 255],
-    "selected_match_fg": [121, 134, 203]
+    "selected_match_fg": [121, 134, 2039]
   },
 
     // Panel labels
@@ -1760,10 +1744,9 @@ NOTE: This rulers must only override the original definitions */
     "class": "quick_panel_label",
     "settings": ["material_theme_accent_indigo"],
     "parents": [{"class": "overlay_control"}],
-    "fg": [176, 190, 197, 255],
     "match_fg": [121, 134, 203],
     "selected_fg": [255, 255, 255, 255],
-    "selected_match_fg": [121, 134, 203]
+    "selected_match_fg": [121, 134, 2039]
   },
 
     // Panels sublabels
@@ -1771,10 +1754,9 @@ NOTE: This rulers must only override the original definitions */
   {
     "class": "quick_panel_path_label",
     "settings": ["material_theme_accent_indigo"],
-    "fg": [97, 97, 97, 255],
     "match_fg": [121, 134, 203],
     "selected_fg": [255, 255, 255, 255],
-    "selected_match_fg": [121, 134, 203]
+    "selected_match_fg": [121, 134, 2039]
   },
 
     // Panels data / score
@@ -1880,4 +1862,931 @@ NOTE: This rulers must only override the original definitions */
     "class": "icon_reverse",
     "settings": ["material_theme_accent_indigo"],
     "layer0.texture": "Material Theme/assets/accent-indigo/find_reverse--hover.png",
+  },
+
+/* PINK ACCENT
+ * =================================================================== */
+
+  {
+    "class": "panel_button_control",
+    "settings": ["material_theme_accent_pink"],
+    "attributes": ["hover"],
+    "layer0.texture": "Material Theme/assets/accent-pink/overflow_menu--hover.png",
+  },
+
+  // Tooltip
+
+  {
+    "class": "tool_tip_control",
+    "settings": ["material_theme_accent_pink"],
+    "layer0.tint": [255, 64, 129],
+  },
+
+  {
+    "class": "progress_gauge_control",
+    "settings": ["material_theme_accent_pink"],
+    "layer0.tint": [255, 64, 129]
+  },
+
+  {
+    "class": "auto_complete_label",
+    "settings": ["material_theme_accent_pink"],
+    "match_fg": [255, 64, 129],
+    "selected_match_fg": [255, 64, 129]
+  },
+
+  {
+    "class": "tool_tip_label_control",
+    "settings": ["material_theme_accent_pink"],
+    "color": [0, 0, 0, 150]
+  },
+
+    // Sidebar tree highlight
+
+  {
+    "class": "tree_row",
+    "settings": ["material_theme_accent_pink"],
+    "layer1.texture": "Material Theme/assets/accent-pink/tree_highlight.png",
+  },
+
+    // Tabs
+
+  {
+    "class": "tab_control",
+    "settings": ["material_theme_accent_pink"],
+    "layer1.texture": "Material Theme/assets/accent-pink/tab_current.png",
+  },
+
+    // Tabs close button
+
+  {
+    "class": "tab_close_button",
+    "settings": ["material_theme_accent_pink"],
+    "layer1.texture": "Material Theme/assets/accent-pink/close_icon--hover.png",
+    "layer3.texture": "Material Theme/assets/accent-pink/dirty_icon--hover.png"
+  },
+
+    // Opened files
+
+  {
+    "class": "close_button",
+    "settings": ["material_theme_accent_pink"],
+    "layer1.texture": "Material Theme/assets/accent-pink/close_icon--hover.png",
+  },
+
+    // Dirty opened files
+
+  {
+    "class": "close_button",
+    "attributes": ["dirty"],
+    "settings": ["material_theme_accent_pink"],
+    "layer0.texture": "Material Theme/assets/accent-pink/dirty_icon--hover.png",
+  },
+
+  {
+    "class": "sidebar_label",
+    "settings": ["material_theme_accent_pink"],
+    "parents": [{"class": "tree_row", "attributes": ["expanded"]}],
+    "color": [255, 64, 129]
+  },
+
+  {
+    "class": "icon_folder",
+    "settings": ["material_theme_accent_pink"],
+    "layer2.texture": "Material Theme/assets/accent-pink/folder--hover.png",
+    "layer3.texture": "Material Theme/assets/accent-pink/folder_opened--hover.png",
+  },
+
+  {
+    "class": "icon_folder",
+    "settings": ["material_theme_accent_pink"],
+    "parents": [{ "class": "tree_row", "attributes": ["expanded", "hover"] }],
+    "layer3.texture":
+    {
+      "keyframes":
+      [
+        "Material Theme/assets/accent-pink/folder_opened--hover-0.png",
+        "Material Theme/assets/accent-pink/folder_opened--hover-1.png",
+        "Material Theme/assets/accent-pink/folder_opened--hover-2.png",
+        "Material Theme/assets/accent-pink/folder_opened--hover-3.png",
+        "Material Theme/assets/accent-pink/folder_opened--hover-4.png",
+        "Material Theme/assets/accent-pink/folder_opened--hover-5.png",
+        "Material Theme/assets/accent-pink/folder_opened--hover-5.png",
+        "Material Theme/assets/accent-pink/folder_opened--hover-5.png",
+        "Material Theme/assets/accent-pink/folder_opened--hover-6.png",
+        "Material Theme/assets/accent-pink/folder_opened--hover-6.png",
+        "Material Theme/assets/accent-pink/folder_opened--hover-6.png",
+        "Material Theme/assets/accent-pink/folder_opened--hover-6.png",
+        "Material Theme/assets/accent-pink/folder_opened--hover-7.png",
+      ],
+      "loop": false,
+      "frame_time": 0.020,
+    }
+  },
+
+    // Folder loading
+
+  {
+    "class": "icon_folder_loading",
+    "settings": ["material_theme_accent_pink"],
+    "layer1.texture":
+    {
+      "keyframes":
+      [
+        "Material Theme/assets/accent-pink/spinner7.png",
+        "Material Theme/assets/accent-pink/spinner6.png",
+        "Material Theme/assets/accent-pink/spinner5.png",
+        "Material Theme/assets/accent-pink/spinner4.png",
+        "Material Theme/assets/accent-pink/spinner3.png",
+        "Material Theme/assets/accent-pink/spinner2.png",
+        "Material Theme/assets/accent-pink/spinner1.png",
+        "Material Theme/assets/accent-pink/spinner.png",
+      ],
+      "loop": true,
+      "frame_time": 0.075,
+    },
+  },
+
+    // tab set scroll left | scroll right
+
+  {
+    "class": "scroll_tabs_left_button",
+    "settings": ["material_theme_accent_pink"],
+    "layer1.texture": "Material Theme/assets/accent-pink/arrow_left--hover.png",
+  },
+
+  {
+    "class": "scroll_tabs_right_button",
+    "settings": ["material_theme_accent_pink"],
+    "layer1.texture": "Material Theme/assets/accent-pink/arrow_right--hover.png",
+  },
+
+
+  {
+    "class": "fold_button_control",
+    "settings": ["material_theme_accent_pink"],
+    "layer0.texture": "Material Theme/assets/commons/fold_right.png",
+    "layer1.texture": "Material Theme/assets/accent-pink/fold_right--hover.png",
+  },
+
+  {
+    "class": "fold_button_control",
+    "attributes": ["expanded"],
+    "settings": ["material_theme_accent_pink"],
+    "layer0.texture": "Material Theme/assets/darker/fold_down.png",
+    "layer1.texture": "Material Theme/assets/accent-pink/fold_down--hover.png"
+  },
+
+  // Panel labels
+
+  {
+    "class": "quick_panel_label",
+    "settings": ["material_theme_accent_pink"],
+    "match_fg": [255, 64, 129],
+    "selected_fg": [255, 255, 255, 255],
+    "selected_match_fg": [255, 64, 129]
+  },
+
+    // Panel labels
+
+  {
+    "class": "quick_panel_label",
+    "settings": ["material_theme_accent_pink"],
+    "parents": [{"class": "overlay_control"}],
+    "match_fg": [255, 64, 129],
+    "selected_fg": [255, 255, 255, 255],
+    "selected_match_fg": [255, 64, 129]
+  },
+
+    // Panels sublabels
+
+  {
+    "class": "quick_panel_path_label",
+    "settings": ["material_theme_accent_pink"],
+    "match_fg": [255, 64, 129],
+    "selected_fg": [255, 255, 255, 255],
+    "selected_match_fg": [255, 64, 129]
+  },
+
+    // Panels data / score
+
+  {
+    "class": "quick_panel_score_label",
+    "settings": ["material_theme_accent_pink"],
+    "fg": [255, 64, 129],
+    "selected_fg": [255, 255, 255, 255]
+  },
+
+  {
+    "class": "show_tabs_dropdown_button",
+    "settings": ["material_theme_accent_pink"],
+    "layer1.texture": "Material Theme/assets/accent-pink/overflow_menu--hover.png",
+  },
+
+    // Textline input oveflow menu
+
+  {
+    "class": "dropdown_button_control",
+    "settings": ["material_theme_accent_pink"],
+    "layer1.texture": "Material Theme/assets/accent-pink/overflow_menu--hover.png",
+  },
+
+  /* Buttons icons settings
+  ===================================================================== */
+
+    // Regex Icon
+  {
+    "class": "icon_regex",
+    "settings": ["material_theme_accent_pink"],
+    "layer0.texture": "Material Theme/assets/accent-pink/find_regex--hover.png",
+  },
+
+    // Preserve case sensitive
+
+  {
+    "class": "icon_case",
+    "settings": ["material_theme_accent_pink"],
+    "layer0.texture": "Material Theme/assets/accent-pink/find_case--hover.png",
+  },
+    // Wholeword
+
+  {
+    "class": "icon_whole_word",
+    "settings": ["material_theme_accent_pink"],
+    "layer0.texture": "Material Theme/assets/accent-pink/find_word--hover.png",
+  },
+
+    // Wrap
+
+  {
+    "class": "icon_wrap",
+    "settings": ["material_theme_accent_pink"],
+    "layer0.texture": "Material Theme/assets/accent-pink/find_wrap--hover.png",
+  },
+
+    // In selection
+
+  {
+    "class": "icon_in_selection",
+    "settings": ["material_theme_accent_pink"],
+    "layer0.texture": "Material Theme/assets/accent-pink/find_inselection--hover.png",
+  },
+
+
+    // Highlight Result
+
+  {
+    "class": "icon_highlight",
+    "settings": ["material_theme_accent_pink"],
+    "layer0.texture": "Material Theme/assets/accent-pink/find_highlight--hover.png",
+  },
+
+    // Preserve Case
+
+  {
+    "class": "icon_preserve_case",
+    "settings": ["material_theme_accent_pink"],
+    "layer0.texture": "Material Theme/assets/accent-pink/replace_preserve_case--hover.png",
+  },
+
+    // Show context
+
+  {
+    "class": "icon_context",
+    "settings": ["material_theme_accent_pink"],
+    "layer0.texture": "Material Theme/assets/accent-pink/find_context--hover.png",
+  },
+
+    // Use buffer
+
+  {
+    "class": "icon_use_buffer",
+    "settings": ["material_theme_accent_pink"],
+    "layer0.texture": "Material Theme/assets/accent-pink/use_buffer--hover.png",
+  },
+
+    // Reverse direction
+
+  {
+    "class": "icon_reverse",
+    "settings": ["material_theme_accent_pink"],
+    "layer0.texture": "Material Theme/assets/accent-pink/find_reverse--hover.png",
+  },
+
+/* BLUE ACCENT
+ * =================================================================== */
+
+  {
+    "class": "panel_button_control",
+    "settings": ["material_theme_accent_blue"],
+    "attributes": ["hover"],
+    "layer0.texture": "Material Theme/assets/accent-blue/overflow_menu--hover.png",
+  },
+
+  // Tooltip
+
+  {
+    "class": "tool_tip_control",
+    "settings": ["material_theme_accent_blue"],
+    "layer0.tint": [41, 121, 255],
+  },
+
+  {
+    "class": "progress_gauge_control",
+    "settings": ["material_theme_accent_blue"],
+    "layer0.tint": [41, 121, 255]
+  },
+
+  {
+    "class": "auto_complete_label",
+    "settings": ["material_theme_accent_blue"],
+    "match_fg": [41, 121, 255],
+    "selected_match_fg": [41, 121, 255]
+  },
+
+  {
+    "class": "tool_tip_label_control",
+    "settings": ["material_theme_accent_blue"],
+    "color": [0, 0, 0, 150]
+  },
+
+    // Sidebar tree highlight
+
+  {
+    "class": "tree_row",
+    "settings": ["material_theme_accent_blue"],
+    "layer1.texture": "Material Theme/assets/accent-blue/tree_highlight.png",
+  },
+
+    // Tabs
+
+  {
+    "class": "tab_control",
+    "settings": ["material_theme_accent_blue"],
+    "layer1.texture": "Material Theme/assets/accent-blue/tab_current.png",
+  },
+
+    // Tabs close button
+
+  {
+    "class": "tab_close_button",
+    "settings": ["material_theme_accent_blue"],
+    "layer1.texture": "Material Theme/assets/accent-blue/close_icon--hover.png",
+    "layer3.texture": "Material Theme/assets/accent-blue/dirty_icon--hover.png"
+  },
+
+    // Opened files
+
+  {
+    "class": "close_button",
+    "settings": ["material_theme_accent_blue"],
+    "layer1.texture": "Material Theme/assets/accent-blue/close_icon--hover.png",
+  },
+
+    // Dirty opened files
+
+  {
+    "class": "close_button",
+    "attributes": ["dirty"],
+    "settings": ["material_theme_accent_blue"],
+    "layer0.texture": "Material Theme/assets/accent-blue/dirty_icon--hover.png",
+  },
+
+  {
+    "class": "sidebar_label",
+    "settings": ["material_theme_accent_blue"],
+    "parents": [{"class": "tree_row", "attributes": ["expanded"]}],
+    "color": [68, 138, 255]
+  },
+
+  {
+    "class": "icon_folder",
+    "settings": ["material_theme_accent_blue"],
+    "layer2.texture": "Material Theme/assets/accent-blue/folder--hover.png",
+    "layer3.texture": "Material Theme/assets/accent-blue/folder_opened--hover.png",
+  },
+
+  {
+    "class": "icon_folder",
+    "settings": ["material_theme_accent_blue"],
+    "parents": [{ "class": "tree_row", "attributes": ["expanded", "hover"] }],
+    "layer3.texture":
+    {
+      "keyframes":
+      [
+        "Material Theme/assets/accent-blue/folder_opened--hover-0.png",
+        "Material Theme/assets/accent-blue/folder_opened--hover-1.png",
+        "Material Theme/assets/accent-blue/folder_opened--hover-2.png",
+        "Material Theme/assets/accent-blue/folder_opened--hover-3.png",
+        "Material Theme/assets/accent-blue/folder_opened--hover-4.png",
+        "Material Theme/assets/accent-blue/folder_opened--hover-5.png",
+        "Material Theme/assets/accent-blue/folder_opened--hover-5.png",
+        "Material Theme/assets/accent-blue/folder_opened--hover-5.png",
+        "Material Theme/assets/accent-blue/folder_opened--hover-6.png",
+        "Material Theme/assets/accent-blue/folder_opened--hover-6.png",
+        "Material Theme/assets/accent-blue/folder_opened--hover-6.png",
+        "Material Theme/assets/accent-blue/folder_opened--hover-6.png",
+        "Material Theme/assets/accent-blue/folder_opened--hover-7.png",
+      ],
+      "loop": false,
+      "frame_time": 0.020,
+    }
+  },
+
+    // Folder loading
+
+  {
+    "class": "icon_folder_loading",
+    "settings": ["material_theme_accent_blue"],
+    "layer1.texture":
+    {
+      "keyframes":
+      [
+        "Material Theme/assets/accent-blue/spinner7.png",
+        "Material Theme/assets/accent-blue/spinner6.png",
+        "Material Theme/assets/accent-blue/spinner5.png",
+        "Material Theme/assets/accent-blue/spinner4.png",
+        "Material Theme/assets/accent-blue/spinner3.png",
+        "Material Theme/assets/accent-blue/spinner2.png",
+        "Material Theme/assets/accent-blue/spinner1.png",
+        "Material Theme/assets/accent-blue/spinner.png",
+      ],
+      "loop": true,
+      "frame_time": 0.075,
+    },
+  },
+
+    // tab set scroll left | scroll right
+
+  {
+    "class": "scroll_tabs_left_button",
+    "settings": ["material_theme_accent_blue"],
+    "layer1.texture": "Material Theme/assets/accent-blue/arrow_left--hover.png",
+  },
+
+  {
+    "class": "scroll_tabs_right_button",
+    "settings": ["material_theme_accent_blue"],
+    "layer1.texture": "Material Theme/assets/accent-blue/arrow_right--hover.png",
+  },
+
+
+  {
+    "class": "fold_button_control",
+    "settings": ["material_theme_accent_blue"],
+    "layer0.texture": "Material Theme/assets/commons/fold_right.png",
+    "layer1.texture": "Material Theme/assets/accent-blue/fold_right--hover.png",
+  },
+
+  {
+    "class": "fold_button_control",
+    "attributes": ["expanded"],
+    "settings": ["material_theme_accent_blue"],
+    "layer0.texture": "Material Theme/assets/darker/fold_down.png",
+    "layer1.texture": "Material Theme/assets/accent-blue/fold_down--hover.png"
+  },
+
+  // Panel labels
+
+  {
+    "class": "quick_panel_label",
+    "settings": ["material_theme_accent_blue"],
+    "match_fg": [68, 138, 255],
+    "selected_fg": [255, 255, 255, 255],
+    "selected_match_fg": [68, 138, 255]
+  },
+
+    // Panel labels
+
+  {
+    "class": "quick_panel_label",
+    "settings": ["material_theme_accent_blue"],
+    "parents": [{"class": "overlay_control"}],
+    "match_fg": [68, 138, 255],
+    "selected_fg": [255, 255, 255, 255],
+    "selected_match_fg": [68, 138, 255]
+  },
+
+    // Panels sublabels
+
+  {
+    "class": "quick_panel_path_label",
+    "settings": ["material_theme_accent_blue"],
+    "match_fg": [68, 138, 255],
+    "selected_fg": [255, 255, 255, 255],
+    "selected_match_fg": [68, 138, 255]
+  },
+
+    // Panels data / score
+
+  {
+    "class": "quick_panel_score_label",
+    "settings": ["material_theme_accent_blue"],
+    "fg": [68, 138, 255],
+    "selected_fg": [255, 255, 255, 255]
+  },
+
+  {
+    "class": "show_tabs_dropdown_button",
+    "settings": ["material_theme_accent_blue"],
+    "layer1.texture": "Material Theme/assets/accent-blue/overflow_menu--hover.png",
+  },
+
+    // Textline input oveflow menu
+
+  {
+    "class": "dropdown_button_control",
+    "settings": ["material_theme_accent_blue"],
+    "layer1.texture": "Material Theme/assets/accent-blue/overflow_menu--hover.png",
+  },
+
+  /* Buttons icons settings
+  ===================================================================== */
+
+    // Regex Icon
+  {
+    "class": "icon_regex",
+    "settings": ["material_theme_accent_blue"],
+    "layer0.texture": "Material Theme/assets/accent-blue/find_regex--hover.png",
+  },
+
+    // Preserve case sensitive
+
+  {
+    "class": "icon_case",
+    "settings": ["material_theme_accent_blue"],
+    "layer0.texture": "Material Theme/assets/accent-blue/find_case--hover.png",
+  },
+    // Wholeword
+
+  {
+    "class": "icon_whole_word",
+    "settings": ["material_theme_accent_blue"],
+    "layer0.texture": "Material Theme/assets/accent-blue/find_word--hover.png",
+  },
+
+    // Wrap
+
+  {
+    "class": "icon_wrap",
+    "settings": ["material_theme_accent_blue"],
+    "layer0.texture": "Material Theme/assets/accent-blue/find_wrap--hover.png",
+  },
+
+    // In selection
+
+  {
+    "class": "icon_in_selection",
+    "settings": ["material_theme_accent_blue"],
+    "layer0.texture": "Material Theme/assets/accent-blue/find_inselection--hover.png",
+  },
+
+
+    // Highlight Result
+
+  {
+    "class": "icon_highlight",
+    "settings": ["material_theme_accent_blue"],
+    "layer0.texture": "Material Theme/assets/accent-blue/find_highlight--hover.png",
+  },
+
+    // Preserve Case
+
+  {
+    "class": "icon_preserve_case",
+    "settings": ["material_theme_accent_blue"],
+    "layer0.texture": "Material Theme/assets/accent-blue/replace_preserve_case--hover.png",
+  },
+
+    // Show context
+
+  {
+    "class": "icon_context",
+    "settings": ["material_theme_accent_blue"],
+    "layer0.texture": "Material Theme/assets/accent-blue/find_context--hover.png",
+  },
+
+    // Use buffer
+
+  {
+    "class": "icon_use_buffer",
+    "settings": ["material_theme_accent_blue"],
+    "layer0.texture": "Material Theme/assets/accent-blue/use_buffer--hover.png",
+  },
+
+    // Reverse direction
+
+  {
+    "class": "icon_reverse",
+    "settings": ["material_theme_accent_blue"],
+    "layer0.texture": "Material Theme/assets/accent-blue/find_reverse--hover.png",
+  },
+
+/* CYAN ACCENT
+ * =================================================================== */
+
+  {
+    "class": "panel_button_control",
+    "settings": ["material_theme_accent_cyan"],
+    "attributes": ["hover"],
+    "layer0.texture": "Material Theme/assets/accent-cyan/overflow_menu--hover.png",
+  },
+
+  // Tooltip
+
+  {
+    "class": "tool_tip_control",
+    "settings": ["material_theme_accent_cyan"],
+    "layer0.tint": [0, 188, 212],
+  },
+
+  {
+    "class": "progress_gauge_control",
+    "settings": ["material_theme_accent_cyan"],
+    "layer0.tint": [0, 188, 212]
+  },
+
+  {
+    "class": "auto_complete_label",
+    "settings": ["material_theme_accent_cyan"],
+    "match_fg": [0, 188, 212],
+    "selected_match_fg": [0, 188, 212]
+  },
+
+  {
+    "class": "tool_tip_label_control",
+    "settings": ["material_theme_accent_cyan"],
+    "color": [0, 0, 0, 150]
+  },
+
+    // Sidebar tree highlight
+
+  {
+    "class": "tree_row",
+    "settings": ["material_theme_accent_cyan"],
+    "layer1.texture": "Material Theme/assets/accent-cyan/tree_highlight.png",
+  },
+
+    // Tabs
+
+  {
+    "class": "tab_control",
+    "settings": ["material_theme_accent_cyan"],
+    "layer1.texture": "Material Theme/assets/accent-cyan/tab_current.png",
+  },
+
+    // Tabs close button
+
+  {
+    "class": "tab_close_button",
+    "settings": ["material_theme_accent_cyan"],
+    "layer1.texture": "Material Theme/assets/accent-cyan/close_icon--hover.png",
+    "layer3.texture": "Material Theme/assets/accent-cyan/dirty_icon--hover.png"
+  },
+
+    // Opened files
+
+  {
+    "class": "close_button",
+    "settings": ["material_theme_accent_cyan"],
+    "layer1.texture": "Material Theme/assets/accent-cyan/close_icon--hover.png",
+  },
+
+    // Dirty opened files
+
+  {
+    "class": "close_button",
+    "attributes": ["dirty"],
+    "settings": ["material_theme_accent_cyan"],
+    "layer0.texture": "Material Theme/assets/accent-cyan/dirty_icon--hover.png",
+  },
+
+  {
+    "class": "sidebar_label",
+    "settings": ["material_theme_accent_cyan"],
+    "parents": [{"class": "tree_row", "attributes": ["expanded"]}],
+    "color": [38, 198, 218]
+  },
+
+  {
+    "class": "icon_folder",
+    "settings": ["material_theme_accent_cyan"],
+    "layer2.texture": "Material Theme/assets/accent-cyan/folder--hover.png",
+    "layer3.texture": "Material Theme/assets/accent-cyan/folder_opened--hover.png",
+  },
+
+  {
+    "class": "icon_folder",
+    "settings": ["material_theme_accent_cyan"],
+    "parents": [{ "class": "tree_row", "attributes": ["expanded", "hover"] }],
+    "layer3.texture":
+    {
+      "keyframes":
+      [
+        "Material Theme/assets/accent-cyan/folder_opened--hover-0.png",
+        "Material Theme/assets/accent-cyan/folder_opened--hover-1.png",
+        "Material Theme/assets/accent-cyan/folder_opened--hover-2.png",
+        "Material Theme/assets/accent-cyan/folder_opened--hover-3.png",
+        "Material Theme/assets/accent-cyan/folder_opened--hover-4.png",
+        "Material Theme/assets/accent-cyan/folder_opened--hover-5.png",
+        "Material Theme/assets/accent-cyan/folder_opened--hover-5.png",
+        "Material Theme/assets/accent-cyan/folder_opened--hover-5.png",
+        "Material Theme/assets/accent-cyan/folder_opened--hover-6.png",
+        "Material Theme/assets/accent-cyan/folder_opened--hover-6.png",
+        "Material Theme/assets/accent-cyan/folder_opened--hover-6.png",
+        "Material Theme/assets/accent-cyan/folder_opened--hover-6.png",
+        "Material Theme/assets/accent-cyan/folder_opened--hover-7.png",
+      ],
+      "loop": false,
+      "frame_time": 0.020,
+    }
+  },
+
+    // Folder loading
+
+  {
+    "class": "icon_folder_loading",
+    "settings": ["material_theme_accent_cyan"],
+    "layer1.texture":
+    {
+      "keyframes":
+      [
+        "Material Theme/assets/accent-cyan/spinner7.png",
+        "Material Theme/assets/accent-cyan/spinner6.png",
+        "Material Theme/assets/accent-cyan/spinner5.png",
+        "Material Theme/assets/accent-cyan/spinner4.png",
+        "Material Theme/assets/accent-cyan/spinner3.png",
+        "Material Theme/assets/accent-cyan/spinner2.png",
+        "Material Theme/assets/accent-cyan/spinner1.png",
+        "Material Theme/assets/accent-cyan/spinner.png",
+      ],
+      "loop": true,
+      "frame_time": 0.075,
+    },
+  },
+
+    // tab set scroll left | scroll right
+
+  {
+    "class": "scroll_tabs_left_button",
+    "settings": ["material_theme_accent_cyan"],
+    "layer1.texture": "Material Theme/assets/accent-cyan/arrow_left--hover.png",
+  },
+
+  {
+    "class": "scroll_tabs_right_button",
+    "settings": ["material_theme_accent_cyan"],
+    "layer1.texture": "Material Theme/assets/accent-cyan/arrow_right--hover.png",
+  },
+
+
+  {
+    "class": "fold_button_control",
+    "settings": ["material_theme_accent_cyan"],
+    "layer0.texture": "Material Theme/assets/commons/fold_right.png",
+    "layer1.texture": "Material Theme/assets/accent-cyan/fold_right--hover.png",
+  },
+
+  {
+    "class": "fold_button_control",
+    "attributes": ["expanded"],
+    "settings": ["material_theme_accent_cyan"],
+    "layer0.texture": "Material Theme/assets/darker/fold_down.png",
+    "layer1.texture": "Material Theme/assets/accent-cyan/fold_down--hover.png"
+  },
+
+  // Panel labels
+
+  {
+    "class": "quick_panel_label",
+    "settings": ["material_theme_accent_cyan"],
+    "match_fg": [38, 198, 218],
+    "selected_fg": [255, 255, 255, 255],
+    "selected_match_fg": [38, 198, 218]
+  },
+
+    // Panel labels
+
+  {
+    "class": "quick_panel_label",
+    "settings": ["material_theme_accent_cyan"],
+    "parents": [{"class": "overlay_control"}],
+    "match_fg": [38, 198, 218],
+    "selected_fg": [255, 255, 255, 255],
+    "selected_match_fg": [38, 198, 218]
+  },
+
+    // Panels sublabels
+
+  {
+    "class": "quick_panel_path_label",
+    "settings": ["material_theme_accent_cyan"],
+    "match_fg": [38, 198, 218],
+    "selected_fg": [255, 255, 255, 255],
+    "selected_match_fg": [38, 198, 218]
+  },
+
+    // Panels data / score
+
+  {
+    "class": "quick_panel_score_label",
+    "settings": ["material_theme_accent_cyan"],
+    "fg": [38, 198, 218],
+    "selected_fg": [255, 255, 255, 255]
+  },
+
+  {
+    "class": "show_tabs_dropdown_button",
+    "settings": ["material_theme_accent_cyan"],
+    "layer1.texture": "Material Theme/assets/accent-cyan/overflow_menu--hover.png",
+  },
+
+    // Textline input oveflow menu
+
+  {
+    "class": "dropdown_button_control",
+    "settings": ["material_theme_accent_cyan"],
+    "layer1.texture": "Material Theme/assets/accent-cyan/overflow_menu--hover.png",
+  },
+
+  /* Buttons icons settings
+  ===================================================================== */
+
+    // Regex Icon
+  {
+    "class": "icon_regex",
+    "settings": ["material_theme_accent_cyan"],
+    "layer0.texture": "Material Theme/assets/accent-cyan/find_regex--hover.png",
+  },
+
+    // Preserve case sensitive
+
+  {
+    "class": "icon_case",
+    "settings": ["material_theme_accent_cyan"],
+    "layer0.texture": "Material Theme/assets/accent-cyan/find_case--hover.png",
+  },
+    // Wholeword
+
+  {
+    "class": "icon_whole_word",
+    "settings": ["material_theme_accent_cyan"],
+    "layer0.texture": "Material Theme/assets/accent-cyan/find_word--hover.png",
+  },
+
+    // Wrap
+
+  {
+    "class": "icon_wrap",
+    "settings": ["material_theme_accent_cyan"],
+    "layer0.texture": "Material Theme/assets/accent-cyan/find_wrap--hover.png",
+  },
+
+    // In selection
+
+  {
+    "class": "icon_in_selection",
+    "settings": ["material_theme_accent_cyan"],
+    "layer0.texture": "Material Theme/assets/accent-cyan/find_inselection--hover.png",
+  },
+
+
+    // Highlight Result
+
+  {
+    "class": "icon_highlight",
+    "settings": ["material_theme_accent_cyan"],
+    "layer0.texture": "Material Theme/assets/accent-cyan/find_highlight--hover.png",
+  },
+
+    // Preserve Case
+
+  {
+    "class": "icon_preserve_case",
+    "settings": ["material_theme_accent_cyan"],
+    "layer0.texture": "Material Theme/assets/accent-cyan/replace_preserve_case--hover.png",
+  },
+
+    // Show context
+
+  {
+    "class": "icon_context",
+    "settings": ["material_theme_accent_cyan"],
+    "layer0.texture": "Material Theme/assets/accent-cyan/find_context--hover.png",
+  },
+
+    // Use buffer
+
+  {
+    "class": "icon_use_buffer",
+    "settings": ["material_theme_accent_cyan"],
+    "layer0.texture": "Material Theme/assets/accent-cyan/use_buffer--hover.png",
+  },
+
+    // Reverse direction
+
+  {
+    "class": "icon_reverse",
+    "settings": ["material_theme_accent_cyan"],
+    "layer0.texture": "Material Theme/assets/accent-cyan/find_reverse--hover.png",
   },

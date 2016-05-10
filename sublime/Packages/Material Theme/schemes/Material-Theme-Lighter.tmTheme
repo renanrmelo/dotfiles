@@ -33,7 +33,7 @@
         <key>guide</key>
         <string>#B0BEC570</string>
         <key>activeGuide</key>
-        <string>#0000070</string>
+        <string>#00000070</string>
         <key>stackGuide</key>
         <string>#B0BEC580</string>
         <key>gutterForeground</key>
@@ -50,11 +50,11 @@
       <key>name</key>
       <string>Text</string>
       <key>scope</key>
-      <string>variable.parameter.function</string>
+      <string>variable.parameter.function, text.cmdline, keyword.cmdline</string>
       <key>settings</key>
       <dict>
         <key>foreground</key>
-        <string>#afb8b8ff</string>
+        <string>#afb8b8</string>
       </dict>
     </dict>
     <dict>
@@ -66,6 +66,8 @@
       <dict>
         <key>foreground</key>
         <string>#B0BEC5</string>
+        <key>fontStyle</key>
+        <string>italic</string>
       </dict>
     </dict>
       <dict>
@@ -164,7 +166,7 @@
       <key>settings</key>
       <dict>
         <key>foreground</key>
-        <string>#EBB060</string>
+        <string>#3fb3a8</string>
       </dict>
     </dict>
     <dict>
@@ -175,7 +177,7 @@
       <key>settings</key>
       <dict>
         <key>foreground</key>
-        <string>#b8b8b8ff</string>
+        <string>#b8b8b8</string>
       </dict>
     </dict>
     <dict>
@@ -186,7 +188,7 @@
       <key>settings</key>
       <dict>
         <key>foreground</key>
-        <string>#6182b8ff</string>
+        <string>#6182b8</string>
       </dict>
     </dict>
     <dict>
@@ -197,7 +199,7 @@
       <key>settings</key>
       <dict>
         <key>foreground</key>
-        <string>#945eb8ff</string>
+        <string>#FF9900</string>
       </dict>
     </dict>
     <dict>
@@ -209,7 +211,7 @@ keyword.operator, constant.other.color, meta.tag, punctuation.definition.tag, pu
       <key>settings</key>
       <dict>
         <key>foreground</key>
-        <string>#3fb3a8ff</string>
+        <string>#3fb3a8</string>
       </dict>
     </dict>
     <dict>
@@ -293,11 +295,13 @@ keyword.operator, constant.other.color, meta.tag, punctuation.definition.tag, pu
       <key>name</key>
       <string>Attributes</string>
       <key>scope</key>
-      <string>entity.other.attribute-name, meta.tag.any.html entity.other.attribute-name.html, text.html.basic meta.tag.other.html entity.other.attribute-name.html</string>
+      <string>entity.other.attribute-name.html, entity.other.attribute-name.class.html, meta.tag.any.html entity.other.attribute-name.html, text.html.basic meta.tag.other.html entity.other.attribute-name.html, source.js meta.jsx.js entity.other.attribute-name.jsx</string>
       <key>settings</key>
       <dict>
         <key>foreground</key>
         <string>#FFA000</string>
+        <key>fontStyle</key>
+        <string>italic</string>
       </dict>
     </dict>
     <dict>
@@ -689,7 +693,7 @@ meta.property-value support.constant.named-color.css</string>
       <key>settings</key>
       <dict>
         <key>foreground</key>
-        <string>#b89617ff</string>
+        <string>#b89617</string>
       </dict>
     </dict>
     <dict>
@@ -782,6 +786,17 @@ meta.property-value support.constant.named-color.css</string>
     </dict>
     <dict>
       <key>name</key>
+      <string>CSS: classes</string>
+      <key>scope</key>
+      <string>source.sass entity.other.attribute-name, source.css entity.other.attribute-name, source.less entity.other.attribute-name</string>
+      <key>settings</key>
+      <dict>
+        <key>foreground</key>
+        <string>#FFCF1B</string>
+      </dict>
+    </dict>
+    <dict>
+      <key>name</key>
       <string>CSS: Prefix</string>
       <key>scope</key>
       <string>meta.property-list meta.property-name</string>
@@ -839,11 +854,11 @@ meta.property-value support.constant.named-color.css</string>
       <key>name</key>
       <string>CSS: #</string>
       <key>scope</key>
-      <string>constant.other.color.rgb-value punctuation.definition.constant</string>
+      <string>constant.other.color.rgb-value punctuation.definition.constant, source.sass entity.other.attribute-name.id.sass, source.css meta.selector.css entity.other.attribute-name.id.css</string>
       <key>settings</key>
       <dict>
         <key>foreground</key>
-        <string>#E53935</string>
+        <string>#7C4DFF</string>
       </dict>
     </dict>
     <dict>

@@ -1,3 +1,5 @@
 [
-  { "keys": ["f1"], "command": "goto_documentation" }
+  { "keys": ["f1"], "command": "goto_documentation" },
+  { "keys": ["ctrl+shift+c"],      "command": "db_plugin_copy_file", "args": {"diretorio": "/var/www/dbportal_prj", "useSave": true } },
+  { "keys": ["alt+e"],             "command": "db_execute_sql", "args": {"servidor" : "dev08", "porta" : "5432", "usuario" : "postgres", "base" : "dbportal_esocial_v2_3_50", "comando" : "psql"} }
 ]
