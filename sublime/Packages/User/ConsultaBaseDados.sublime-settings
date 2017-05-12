@@ -1,8 +1,0 @@
-{
-  "encode"   : "latin1", 
-  "host"     : "localhost", 
-  "porta"    : "5432", 
-  "usuario"  : "postgres", 
-  "base"     : "dbportal_demo_v2_3_52", 
-  "comando"  : "psql" 
-}
